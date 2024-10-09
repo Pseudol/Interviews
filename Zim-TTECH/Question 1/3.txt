@@ -1,0 +1,182 @@
+Facility Name | Tsungubvi | Database Name | Tsungubvi27June2024.sql |File Size: 1805.5435667037964 | Site Id: ZW020447 | Status: Successful
+Facility Name | Ruyamuro | Database Name | Ruyamuro04July2024.sql |File Size: 1439.0613050460815 | Site Id: ZW020343 | Status: Successful
+Facility Name | Dotito | Database Name | Dotito-08-July-2024.sql |File Size: 1098.6108989715576 | Site Id: ZW020501 | Status: Successful
+Facility Name | Ardura | Database Name | Ardura28June2024.sql |File Size: 869.087158203125 | Site Id: ZW020408 | Status: Successful
+Facility Name | Nyamahobobo | Database Name | Nyamahobogo-10-July-2024.sql |File Size: 774.0248584747314 | Site Id: ZW020504 | Status: Successful
+Facility Name | Henderson Research | Database Name | Henderson25June2024.sql |File Size: 738.3818321228027 | Site Id: ZW020475 | Status: Successful
+Facility Name | Chitse Clinic | Database Name | Chitse-09-July-2024.sql |File Size: 730.4977874755859 | Site Id: ZW020534 | Status: Successful
+Facility Name | Concession Hosp. | Database Name | Concession26June2024.sql |File Size: 704.56005859375 | Site Id: ZW02040A | Status: Successful
+Facility Name | Guruve RHC Clinic | Database Name | GuruveCentre03July2024.sql |File Size: 701.1277770996094 | Site Id: ZW020308 | Status: Successful
+Facility Name | Bakasa | Database Name | Bakasa04July2024.sql |File Size: 694.1507892608643 | Site Id: ZW020326 | Status: Successful
+Facility Name | Bepura | Database Name | Bepura07July2024.sql |File Size: 689.557861328125 | Site Id: ZW020327 | Status: Successful
+Facility Name | Jingamvura | Database Name | Jingamvura-04-July-2024.sql |File Size: 689.1398859024048 | Site Id: ZW020427 | Status: Successful
+Facility Name | Nzvimbo | Database Name | Nzvimbo27June2024.sql |File Size: 676.8174629211426 | Site Id: ZW020432 | Status: Successful
+Facility Name | Masomo | Database Name | Masomo10July2024.sql |File Size: 674.3501920700073 | Site Id: ZW020802 | Status: Successful
+Facility Name | Donje | Database Name | Donje21June2024.sql |File Size: 671.2882766723633 | Site Id: ZW020406 | Status: Successful
+Facility Name | Mukumbura | Database Name | Mukumbura-06-July-2024.sql |File Size: 646.7282247543335 | Site Id: ZW020503 | Status: Successful
+Facility Name | Dambo | Database Name | Dambo20June2024.sql |File Size: 614.6341648101807 | Site Id: ZW020484 | Status: Successful
+Facility Name | Mushumbi RHC  | Database Name | Mushumbi09July2024.sql |File Size: 609.7370510101318 | Site Id: ZW020803 | Status: Successful
+Facility Name | Mvurwi | Database Name | Mvurwi-Hosp-03-July-2024.sql |File Size: 607.032657623291 | Site Id: ZW02040E | Status: Successful
+Facility Name | Chitsungo | Database Name | Chitsungo08July2024.sql |File Size: 606.6404752731323 | Site Id: ZW02080B | Status: Successful
+Facility Name | Mahuwe | Database Name | Mahuwe07July2024.sql |File Size: 606.2545938491821 | Site Id: ZW020833 | Status: Successful
+Facility Name | Bare | Database Name | Bare-03-July-2024.sql |File Size: 569.5948514938354 | Site Id: ZW020425 | Status: Successful
+Facility Name | Chidodo | Database Name | Chidodo10July2024.sql |File Size: 561.754804611206 | Site Id: ZW020841 | Status: Successful
+Facility Name | Kemutamba | Database Name | Kemutamba05July2024.sql |File Size: 550.7108383178711 | Site Id: ZW020346 | Status: Successful
+Facility Name | Musengezi Clinic | Database Name | Musengezi10July2024.sql |File Size: 527.7978763580322 | Site Id: ZW020832 | Status: Successful
+Facility Name | Tsakare | Database Name | Tsakare-05-July-2024.sql |File Size: 523.8696136474609 | Site Id: ZW020506 | Status: Successful
+Facility Name | Kaitano | Database Name | Kaitano-06-July-2024.sql |File Size: 520.4410333633423 | Site Id: ZW020526 | Status: Successful
+Facility Name | Holmeden | Database Name | Holme-Eden-03-July-2024.sql |File Size: 494.8501396179199 | Site Id: ZW020446 | Status: Successful
+Facility Name | Guruve District Hospital | Database Name | GuruveHosp02July2024.sql |File Size: 491.11027908325195 | Site Id: ZW02030B | Status: Successful
+Facility Name | Suoguru Clinic  | Database Name | Suoguru-03-July-2024.sql |File Size: 431.92290687561035 | Site Id: ZW020488 | Status: Successful
+Facility Name | Masoka | Database Name | Masoka08July2024.sql |File Size: 417.9291801452637 | Site Id: ZW020801 | Status: Successful
+Facility Name | Pachanza | Database Name | Pachanza-07-July-2024.sql |File Size: 403.6219005584717 | Site Id: ZW020528 | Status: Successful
+Facility Name | Rosa Rural Hospital | Database Name | Rosa28June2024.sql |File Size: 399.83067417144775 | Site Id: ZW02040B | Status: Successful
+Facility Name | Nyambudzi | Database Name | Nyambudzi09July2024.sql |File Size: 395.19365882873535 | Site Id: ZW020835 | Status: Successful
+Facility Name | Kamutsenzere | Database Name | Kamutsenzere-07-July-2024.sql |File Size: 395.17765522003174 | Site Id: ZW020502 | Status: Successful
+Facility Name | Bveke | Database Name | Bveke-09-July-2024.sql |File Size: 385.35845375061035 | Site Id: ZW020529 | Status: Successful
+Facility Name | Gonono | Database Name | Gonono11July2024.sql |File Size: 373.375 | Site Id: ZW020831 | Status: Successful
+Facility Name | Angwa | Database Name | Angwa08July2024.sql |File Size: 371.75069999694824 | Site Id: ZW020821 | Status: Successful
+Facility Name | Chikafa | Database Name | Chikafa09July2024.sql |File Size: 340.6998014450073 | Site Id: ZW020830 | Status: Successful
+Facility Name | Chirunya | Database Name | Chirinya07July2024.sql |File Size: 324.1673974990845 | Site Id: ZW020834 | Status: Successful
+Facility Name | Pfunyanguwo | Database Name | Pfunyanguwo-07-July-2024.sql |File Size: 322.17831230163574 | Site Id: ZW020505 | Status: Successful
+Facility Name | Vonabor | Database Name | VonAbo28June2024.sql |File Size: 319.31613063812256 | Site Id: ZW020411 | Status: Successful
+Facility Name | Matsvitsi | Database Name | Matsvitsi05July2024.sql |File Size: 315.59197902679443 | Site Id: ZW020333 | Status: Successful
+Facility Name | Bandimba | Database Name | Bandimba-07-July-2024.sql |File Size: 311.64964485168457 | Site Id: ZW020533 | Status: Successful
+Facility Name | Christon Bank | Database Name | Christonebank25June2024.sql |File Size: 308.7812900543213 | Site Id: ZW020430 | Status: Successful
+Facility Name | Kandeya RHC | Database Name | Kandeya-09-July-2024.sql |File Size: 301.0003480911255 | Site Id: ZW020538 | Status: Successful
+Facility Name | Matope  clinic  | Database Name | Matope-10-July-2024.sql |File Size: 293.77326679229736 | Site Id: ZW020532 | Status: Successful
+Facility Name | Forrester | Database Name | Forrester21June2024.sql |File Size: 293.135684967041 | Site Id: ZW020485 | Status: Successful
+Facility Name | Shinje | Database Name | Shinje05July2024.sql |File Size: 281.755802154541 | Site Id: ZW020307 | Status: Successful
+Facility Name | Chawanda | Database Name | Chawanda-09-July-2024.sql |File Size: 279.6391725540161 | Site Id: ZW020525 | Status: Successful
+Facility Name | Brandon  | Database Name | Brandon06July2024.sql |File Size: 274.97688007354736 | Site Id: ZW020348 | Status: Successful
+Facility Name | Kachuta | Database Name | Kachuta05July2024.sql |File Size: 263.33399391174316 | Site Id: ZW020331 | Status: Successful
+Facility Name | Negomo | Database Name | Negomo04July2024.sql |File Size: 255.07744884490967 | Site Id: ZW020305 | Status: Successful
+Facility Name | Davaar | Database Name | Davaar20June2024.sql |File Size: 242.86700916290283 | Site Id: ZW020410 | Status: Successful
+Facility Name | Chapoto | Database Name | Chapoto09July2024.sql |File Size: 241.19444847106934 | Site Id: ZW020820 | Status: Successful
+Facility Name | Nyakudya | Database Name | Nyakudya27June2024.sql |File Size: 240.6841526031494 | Site Id: ZW020402 | Status: Successful
+Facility Name | Karanda | Database Name | Karanda-10-July-2024.sql |File Size: 227.73440647125244 | Site Id: ZW02050B | Status: Successful
+Facility Name | Mutasa | Database Name | Mutasa-06-July-2024.sql |File Size: 213.66678142547607 | Site Id: ZW020508 | Status: Successful
+Facility Name | Chipuriro | Database Name | Chipuriro03July2024.sql |File Size: 184.2510471343994 | Site Id: ZW020329 | Status: Successful
+Facility Name | Chiburi  | Database Name | Chibuli-08-July-2024.sql |File Size: 178.13113403320312 | Site Id: ZW020509 | Status: Successful
+Facility Name | Mugarakamwe | Database Name | Mugarakamwe06July2024.sql |File Size: 149.33692359924316 | Site Id: ZW020345 | Status: Successful
+Facility Name | Makope | Database Name | Makope27June2024.sql |File Size: 142.7580690383911 | Site Id: ZW020428 | Status: Successful
+Facility Name | Kamusasa | Database Name | Camsasa04July2024.sql |File Size: 135.379807472229 | Site Id: ZW020347 | Status: Successful
+Facility Name | Nyamupfuta Clinic | Database Name | Nyamupfuta04July2024.sql |File Size: 123.55994319915771 | Site Id: ZW020350 | Status: Successful
+Facility Name | Mt Darwin | Database Name | Mt-Darwin-10-July-2024.sql |File Size: 118.7940320968628 | Site Id: ZW02050A | Status: Successful
+Facility Name | Chinehasha | Database Name | Chinehasha27June2024.sql |File Size: 101.38839721679688 | Site Id: ZW020401 | Status: Successful
+Facility Name | Nembire | Database Name | Nembire-08-July-2024.sql |File Size: 85.993483543396 | Site Id: ZW020527 | Status: Successful
+Facility Name | Cranham Clinic | Database Name | Cranham-03-July-2024.sql |File Size: 85.61415958404541 | Site Id: ZW020491 | Status: Successful
+Facility Name | Bvochora | Database Name | Bvochora05July2024.sql |File Size: 81.8884687423706 | Site Id: ZW020301 | Status: Successful
+Facility Name | Nyamhondoro | Database Name | Nyamhondoro07July2024.sql |File Size: 79.90896224975586 | Site Id: ZW020306 | Status: Successful
+Facility Name | Mutungagore | Database Name | Mutungagore-08-July-2024.sql |File Size: 72.50735378265381 | Site Id: ZW020507 | Status: Successful
+Facility Name | Murongwe RHC  | Database Name | Murongwe-06-July-2024.sql |File Size: 71.33848667144775 | Site Id: ZW020536 | Status: Successful
+Facility Name | Sandringham Clinic | Database Name | Sandriham-02-July-2024.sql |File Size: 64.55224704742432 | Site Id: ZW020489 | Status: Successful
+Facility Name | Chitepo Clinic | Database Name | Chitepo-04-July-2024.sql |File Size: 62.36959648132324 | Site Id: ZW020535 | Status: Successful
+Facility Name | Shutu | Database Name | Shutu-07-Apr-2024.sql |File Size: 44.32449722290039 | Site Id: ZW020403 | Status: Successful
+Facility Name | Horta Clinic | Database Name | Belgownie-02-July-2024.sql |File Size: 37.67327690124512 | Site Id: ZW020490 | Status: Successful
+Facility Name | - | Database Name | Horta-03-July-2024.sql |File Size: 37.67325496673584 | Site Id: ZW020490 | Status: Already Processed
+Facility Name | Birkdale | Database Name | Birkdale06July2024.sql |File Size: 37.61186599731445 | Site Id: ZW020344 | Status: Successful
+Facility Name | Nyakapupu | Database Name | Nyakapupu06July2024.sql |File Size: 25.678695678710938 | Site Id: ZW020339 | Status: Successful
+Facility Name | Shopo | Database Name | Shopo-04-July-2024.sql |File Size: 24.583123207092285 | Site Id: ZW020487 | Status: Successful
+Facility Name | Howard | Database Name | Howard-05-July-2024.sql |File Size: 22.927180290222168 | Site Id: ZW02040C | Status: Successful
+Facility Name | Mazowe Mine Clinic | Database Name | MazoweMine26June2024.sql |File Size: 20.889355659484863 | Site Id: ZW020477 | Status: Successful
+Facility Name | Gota | Database Name | Gota04July2024.sql |File Size: 15.222490310668945 | Site Id: ZW020334 | Status: Successful
+Facility Name | Stories Mine | Database Name | Storis26June2024.sql |File Size: 13.256037712097168 | Site Id: ZW020478 | Status: Successful
+Facility Name | Iron Duke | Database Name | IronDuke28June2024.sql |File Size: 9.547139167785645 | Site Id: ZW020476 | Status: Successful
+Facility Name | No Site Id | Database Name | MazoweCitrus26June2024.sql |File Size: 8.4287109375 | Site Id:  | Status: Empty
+Facility Name | Makonde Christian Hospital | Database Name | MakondeChristian3Jul24.sql |File Size: 2838.977439880371 | Site Id: ZW04040D | Status: Successful
+Facility Name | Chidamoyo | Database Name | Chidamoyo9July24.sql |File Size: 2621.8203830718994 | Site Id: ZW04020D | Status: Successful
+Facility Name | Katangautano | Database Name | NortonKatanga2July24.sql |File Size: 2609.599048614502 | Site Id: ZW040147 | Status: Successful
+Facility Name |  | Database Name | Mtorashanga8July24.sql |File Size: 2553.4205951690674 | Site Id: ZW04070F | Status: Successful
+Facility Name | Chegutu District Hospital | Database Name | Chegutu11.07.2024.sql |File Size: 2550.8148107528687 | Site Id: ZW04010A | Status: Successful
+Facility Name | - | Database Name | Chegutuhospital6July24.sql |File Size: 2541.6569747924805 | Site Id: ZW04010A | Status: Already Processed
+Facility Name | Chinhoyi Hospital | Database Name | ChinhoyiHosp25Jun24.sql |File Size: 2446.8454570770264 | Site Id: ZW04040A | Status: Successful
+Facility Name | Banket District Hospital  | Database Name | BanketHospital28Jun24.sql |File Size: 2444.4985942840576 | Site Id: ZW04070A | Status: Successful
+Facility Name | Karoi | Database Name | KaroiHosp10July24.sql |File Size: 2354.4226093292236 | Site Id: ZW04020A | Status: Successful
+Facility Name | Kadoma General Hospital | Database Name | kadoma090724.sql |File Size: 2279.974676132202 | Site Id: ZW04060A | Status: Successful
+Facility Name | St Padre Pio  | Database Name | StPadre27Jun24.sql |File Size: 2110.729248046875 | Site Id: ZW040189 | Status: Successful
+Facility Name | Karoi Static Clinic | Database Name | KaroiStatic10July24.sql |File Size: 1862.4274435043335 | Site Id: ZW040261 | Status: Successful
+Facility Name | Hurungwe Rural Hospital | Database Name | HurungweRural10July24.sql |File Size: 1683.0332317352295 | Site Id: ZW04020B | Status: Successful
+Facility Name | Raffingora Rural Hospital   | Database Name | Raffingora27Jun24.sql |File Size: 1636.8380756378174 | Site Id: ZW04070D | Status: Successful
+Facility Name | Darwendale Hospital | Database Name | Darwendale25Jun24.sql |File Size: 1586.2358875274658 | Site Id: ZW04070C | Status: Successful
+Facility Name | Rimuka Adult | Database Name | Rimukaclinic5July24.sql |File Size: 1545.446985244751 | Site Id: ZW040361 | Status: Successful
+Facility Name | Trealawney Clinic  | Database Name | Trelawney27Jun24.sql |File Size: 1516.0059967041016 | Site Id: ZW040748 | Status: Successful
+Facility Name | Donain RHC | Database Name | Donaine10.07.2024.sql |File Size: 1507.7125282287598 | Site Id: ZW040502 | Status: Successful
+Facility Name | Sanyati Mission Hospital | Database Name | Sanyatimission3July24.sql |File Size: 1360.789216041565 | Site Id: ZW04060C | Status: Successful
+Facility Name | Mhondoro | Database Name | Mhondoro08.07.2024.sql |File Size: 1248.0974426269531 | Site Id: ZW04010B | Status: Successful
+Facility Name | Chakari Clinic | Database Name | Chakari10.07.2024.sql |File Size: 1196.5254764556885 | Site Id: ZW040689 | Status: Successful
+Facility Name | Murereka | Database Name | Murereka2July24.sql |File Size: 1196.3631610870361 | Site Id: ZW040407 | Status: Successful
+Facility Name | Chinengundu | Database Name | Chinengundu6July24.sql |File Size: 1163.356598854065 | Site Id: ZW040162 | Status: Successful
+Facility Name | Father Ohea | Database Name | FatherO27Jun24.sql |File Size: 1130.919973373413 | Site Id: ZW04070E | Status: Successful
+Facility Name | Dzivarasekwa Extension Government Clinic   | Database Name | Dzivarasekwa25Jun24.sql |File Size: 1026.0348691940308 | Site Id: ZW040780 | Status: Successful
+Facility Name | Kuwadzana Clinic  | Database Name | Kuwadzana28Jun24.sql |File Size: 968.6244602203369 | Site Id: ZW040744 | Status: Successful
+Facility Name | Chikonohono Clinic | Database Name | Chikonohono24Jun24.sql |File Size: 930.4928064346313 | Site Id: ZW040462 | Status: Successful
+Facility Name | TRB | Database Name | TRB27Jun24.sql |File Size: 924.5104684829712 | Site Id: ZW040747 | Status: Successful
+Facility Name | Ngezi Municipal Clinic | Database Name | NgeziClinic5July24.sql |File Size: 911.6672611236572 | Site Id: ZW040636 | Status: Successful
+Facility Name | TURF ESTATE CLINIC | Database Name | Turf09.07.2024.sql |File Size: 905.1679000854492 | Site Id: ZW040524 | Status: Successful
+Facility Name | Mt Hampden ZRDC Clinic  | Database Name | MtHampden25Jun2024.sql |File Size: 895.5652742385864 | Site Id: ZW040745 | Status: Successful
+Facility Name | Chinhoyi Clinic | Database Name | ChinhoyiClinic24Jun24.sql |File Size: 841.1642713546753 | Site Id: ZW040461 | Status: Successful
+Facility Name | Pfupajena | Database Name | Pfupajena6July24.sql |File Size: 762.2876987457275 | Site Id: ZW040161 | Status: Successful
+Facility Name | Masiyarwa | Database Name | SanyatiArda3July24.sql |File Size: 746.3910465240479 | Site Id: ZW040625 | Status: Successful
+Facility Name | Patchway Clinic | Database Name | Patchway10.07.2024.sql |File Size: 739.4383535385132 | Site Id: ZW040624 | Status: Successful
+Facility Name | Mwami | Database Name | Mwami13July24.sql |File Size: 699.352029800415 | Site Id: ZW04020C | Status: Successful
+Facility Name | St Michaels Mission Hospital | Database Name | StMichaels08.07.2024.sql |File Size: 663.7301368713379 | Site Id: ZW04050B | Status: Successful
+Facility Name | Mapinga Clinic   | Database Name | Mapinga25Jun24.sql |File Size: 656.8901453018188 | Site Id: ZW040783 | Status: Successful
+Facility Name | Selous Clinic | Database Name | selous02July24.sql |File Size: 650.9902477264404 | Site Id: ZW040133 | Status: Successful
+Facility Name | Nyabira RDC Clinic   | Database Name | Nyabira25Jun24.sql |File Size: 620.7898569107056 | Site Id: ZW040746 | Status: Successful
+Facility Name | Zvimba | Database Name | ZvimbaRural26Jun24.sql |File Size: 614.8953886032104 | Site Id: ZW04070G | Status: Successful
+Facility Name | Sutton Clinic   | Database Name | Sutton27Jun24.sql |File Size: 595.2358694076538 | Site Id: ZW040777 | Status: Successful
+Facility Name | RIMUKA MATERNITY HOME  CLINIC | Database Name | RimukaMaternity5July24.sql |File Size: 579.6014976501465 | Site Id: ZW040637 | Status: Successful
+Facility Name | Kazangarare | Database Name | Kazangarare13July24.sql |File Size: 557.0499935150146 | Site Id: ZW040227 | Status: Successful
+Facility Name | Waverly Clinic | Database Name | Waverly4July24.sql |File Size: 532.0957927703857 | Site Id: ZW040639 | Status: Successful
+Facility Name | Alaska Clinic | Database Name | Alaska11July24.sql |File Size: 522.0506553649902 | Site Id: ZW040463 | Status: Successful
+Facility Name | Watyoka | Database Name | Watyoka07.04.2024.sql |File Size: 505.4314022064209 | Site Id: ZW040130 | Status: Successful
+Facility Name | Kutama RDC Clinic  | Database Name | Kutama27Jun24.sql |File Size: 497.45362281799316 | Site Id: ZW040743 | Status: Successful
+Facility Name | Ngezi Rural Hospital | Database Name | Ngezi09.05.2024.sql |File Size: 449.75779914855957 | Site Id: ZW04050A | Status: Successful
+Facility Name | UMBOE CLINIC | Database Name | Umboe3July24.sql |File Size: 443.19965839385986 | Site Id: ZW040448 | Status: Successful
+Facility Name | Mhondoro North | Database Name | MhondoroN07.07.2024.sql |File Size: 419.65185928344727 | Site Id: ZW040127 | Status: Successful
+Facility Name | Kanyaga | Database Name | Kanyaga5July24.sql |File Size: 392.23777866363525 | Site Id: ZW040488 | Status: Successful
+Facility Name | Kasimube | Database Name | Kasimure13July24.sql |File Size: 363.8160057067871 | Site Id: ZW040294 | Status: Successful
+Facility Name | Murambwa Clinic  | Database Name | Murambwa08.07.2024.sql |File Size: 337.47093963623047 | Site Id: ZW040523 | Status: Successful
+Facility Name | Ordoff | Database Name | Ordoff4July24.sql |File Size: 325.5687484741211 | Site Id: ZW040623 | Status: Successful
+Facility Name | Kapfunde | Database Name | Kapfunde9July24.sql |File Size: 317.0542049407959 | Site Id: ZW040291 | Status: Successful
+Facility Name | Chivende | Database Name | Chivende11July24.sql |File Size: 308.8201723098755 | Site Id: ZW040202 | Status: Successful
+Facility Name | Chundu | Database Name | Chundu12July24.sql |File Size: 300.9470634460449 | Site Id: ZW040226 | Status: Successful
+Facility Name |  | Database Name | hebertchitepo25Jun2024.sql |File Size: 296.156774520874 | Site Id: ZW040794 | Status: Successful
+Facility Name | Chivero | Database Name | Chivero07.07.2024.sql |File Size: 289.8751640319824 | Site Id: ZW040126 | Status: Successful
+Facility Name | CHINGONDO CLINIC | Database Name | ChingondoClinic09.07.2024.sql |File Size: 288.05982971191406 | Site Id: ZW040518 | Status: Successful
+Facility Name | Zvipani | Database Name | Zvipani9July24.sql |File Size: 285.50926780700684 | Site Id: ZW040206 | Status: Successful
+Facility Name | ManyambaClinic | Database Name | Manyamba5July24.sql |File Size: 279.0363349914551 | Site Id: ZW040487 | Status: Successful
+Facility Name | St Ruperts Mission Hospital | Database Name | StRuperts4July24.sql |File Size: 277.58740615844727 | Site Id: ZW04040B | Status: Successful
+Facility Name | KENZAMBA CLINIC | Database Name | Kenzamba4July24.sql |File Size: 271.14732837677 | Site Id: ZW040406 | Status: Successful
+Facility Name | Brunswick | Database Name | Brunswick6July24.sql |File Size: 266.3945503234863 | Site Id: ZW040180 | Status: Successful
+Facility Name | Musinami | Database Name | Musinami09.07.2024.sql |File Size: 250.7029218673706 | Site Id: ZW040106 | Status: Successful
+Facility Name | Doro | Database Name | Doro10July24.sql |File Size: 226.3258514404297 | Site Id: ZW040299 | Status: Successful
+Facility Name | Monera | Database Name | Monera07.07.2024.sql |File Size: 214.41476726531982 | Site Id: ZW040104 | Status: Successful
+Facility Name | Twin Tops RDC | Database Name | Twintops10.07.2024.sql |File Size: 213.70266246795654 | Site Id: ZW040525 | Status: Successful
+Facility Name | Tenewe | Database Name | Tengwe11July24.sql |File Size: 209.9685869216919 | Site Id: ZW040249 | Status: Successful
+Facility Name | DOMA CLINIC | Database Name | Doma03July24.sql |File Size: 190.08823204040527 | Site Id: ZW040445 | Status: Successful
+Facility Name | Madzorera Clinic  | Database Name | Madzorera26Jun24.sql |File Size: 186.93470096588135 | Site Id: ZW040728 | Status: Successful
+Facility Name | Masanga | Database Name | Masanaga10July24.sql |File Size: 151.7102394104004 | Site Id: ZW040205 | Status: Successful
+Facility Name | Chinhere | Database Name | Chinhere11July24.sql |File Size: 147.9373960494995 | Site Id: ZW040225 | Status: Successful
+Facility Name | Hesketh | Database Name | Hesketh9July24.sql |File Size: 127.47133159637451 | Site Id: ZW040246 | Status: Successful
+Facility Name | Murambi Clinic | Database Name | Murambi11July24.sql |File Size: 121.33227252960205 | Site Id: ZW040234 | Status: Successful
+Facility Name | Hewiyai | Database Name | Helwin12July24.sql |File Size: 103.25813484191895 | Site Id: ZW040245 | Status: Successful
+Facility Name | Masiyarwa Clinic | Database Name | Masiyarwa26Jun24.sql |File Size: 77.68191719055176 | Site Id: ZW040725 | Status: Successful
+Facility Name | Moy | Database Name | Moy12July24.sql |File Size: 74.93027591705322 | Site Id: ZW040235 | Status: Successful
+Facility Name | Nyamakaze | Database Name | Nyamakate12July24.sql |File Size: 62.53984451293945 | Site Id: ZW040228 | Status: Successful
+Facility Name | Gamanya Clinic | Database Name | Gamanya3July24.sql |File Size: 47.55069160461426 | Site Id: ZW040485 | Status: Successful
+Facility Name | Jari | Database Name | Jari26Jun24.sql |File Size: 46.6820650100708 | Site Id: ZW040727 | Status: Successful
+Facility Name | Nyama Clinic | Database Name | Nyama13July24.sql |File Size: 46.03855800628662 | Site Id: ZW040236 | Status: Successful
+Facility Name | Beersheba | Database Name | BeershebaClinic03.07.2024.sql |File Size: 41.997758865356445 | Site Id: ZW040187 | Status: Successful
+Facility Name | Muuyu Clinic | Database Name | Muuyu100724.sql |File Size: 40.52273750305176 | Site Id: ZW040629 | Status: Successful
+Facility Name | Vere Clinic | Database Name | Vere100724.sql |File Size: 37.14384365081787 | Site Id: ZW040609 | Status: Successful
+Facility Name | - | Database Name | Muuyu3July24.sql |File Size: 32.9897575378418 | Site Id: ZW040629 | Status: Already Processed
+Facility Name | Jompani Clinic | Database Name | Jompani090724.sql |File Size: 32.627623558044434 | Site Id: ZW040601 | Status: Successful
+Facility Name | Mafindifindi Clinic | Database Name | Mafindifindi05.07.2024.sql |File Size: 30.856813430786133 | Site Id: ZW040520 | Status: Successful
+Facility Name | Mukarati Clinic | Database Name | Mukarati05.07.2024.sql |File Size: 26.682552337646484 | Site Id: ZW040522 | Status: Successful
+Facility Name | Sandringham Clinic | Database Name | Sandringham03.07.2024.sql |File Size: 24.61532211303711 | Site Id: ZW040134 | Status: Successful
+Facility Name | Mukohwe Clinic | Database Name | Mukohwe4July24.sql |File Size: 24.52299213409424 | Site Id: ZW040426 | Status: Successful
+Facility Name | Nyabango Clinic | Database Name | Nyabangu080724.sql |File Size: 17.920924186706543 | Site Id: ZW040605 | Status: Successful
+Facility Name | Runene | Database Name | Runene4July24.sql |File Size: 17.651622772216797 | Site Id: ZW040433 | Status: Successful
+Facility Name | Chipfuwamiti Clinic | Database Name | Chipfuwamiti4July24.sql |File Size: 13.025383949279785 | Site Id: ZW040491 | Status: Successful

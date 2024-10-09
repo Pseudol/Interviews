@@ -1,0 +1,24 @@
+Facility Name | Luveve | Database Name | Luveve030724.sql |File Size: 4650.540654182434 | Site Id: ZW090A06 | Status: Successful
+Facility Name | - | Database Name | Luveve030724.sql |File Size: 4650.540654182434 | Site Id: ZW090A06 | Status: Already Processed
+Facility Name | Nketa | Database Name | Nketa020724.sql |File Size: 4604.294848442078 | Site Id: ZW090A17 | Status: Successful
+Facility Name | Northern Suburbs | Database Name | nrs020724.sql |File Size: 3467.6673345565796 | Site Id: ZW090A18 | Status: Successful
+Facility Name | Khami Road Clinic | Database Name | khami020724.sql |File Size: 3390.4253730773926 | Site Id: ZW090A05 | Status: Successful
+Facility Name | Magwegwe | Database Name | Magwegwe030724.sql |File Size: 3311.9422330856323 | Site Id: ZW090A07 | Status: Successful
+Facility Name | Mzilikazi | Database Name | mzilikazi030724.sql |File Size: 3086.037474632263 | Site Id: ZW090A08 | Status: Successful
+Facility Name | Nkulumane | Database Name | Nkulumane020724.sql |File Size: 3052.64089012146 | Site Id: ZW090A10 | Status: Successful
+Facility Name | Pelandaba | Database Name | pelandaba030724.sql |File Size: 2662.490674972534 | Site Id: ZW090A11 | Status: Successful
+Facility Name | Emakhandeni | Database Name | Emakhandeni020724.sql |File Size: 2282.466697692871 | Site Id: ZW090A01 | Status: Successful
+Facility Name | Cowdray Park | Database Name | CowdrayPark010724.sql |File Size: 2094.292229652405 | Site Id: ZW090A27 | Status: Successful
+Facility Name | Entumbane | Database Name | Entumbane020724.sql |File Size: 2076.0324306488037 | Site Id: ZW090A04 | Status: Successful
+Facility Name | Pumula  | Database Name | Pumula010724.sql |File Size: 1969.8235158920288 | Site Id: ZW090A13 | Status: Successful
+Facility Name | E.F Watson | Database Name | EFWatson020724.sql |File Size: 1969.031807899475 | Site Id: ZW090A03 | Status: Successful
+Facility Name | Princess Margaret | Database Name | pmr020724.sql |File Size: 1937.8457489013672 | Site Id: ZW090A12 | Status: Successful
+Facility Name | Njube | Database Name | Njube030724.sql |File Size: 1888.7086763381958 | Site Id: ZW090A09 | Status: Successful
+Facility Name | Maqhawe | Database Name | Maqhawe020724.sql |File Size: 1868.8094425201416 | Site Id: ZW090A33 | Status: Successful
+Facility Name | Pumula South | Database Name | PumulaSouth040724.sql |File Size: 1862.9444541931152 | Site Id: ZW090A35 | Status: Successful
+Facility Name | Tshabalala | Database Name | Tshabalala0030724.sql |File Size: 1490.3861284255981 | Site Id: ZW090A02 | Status: Successful
+Facility Name | Dr. Shennan  | Database Name | DrShennan020724.sql |File Size: 710.0607213973999 | Site Id: ZW090A14 | Status: Successful
+Facility Name | Thorngrove | Database Name | thorngrove020724.sql |File Size: 190.56542778015137 | Site Id: ZW090A0E | Status: Successful
+Facility Name | CeSHHAR Bulawayo | Database Name | Ceshhar030724.sql |File Size: 178.03297424316406 | Site Id: ZW090A49 | Status: Successful
+Facility Name | Mahatshula | Database Name | mahatshula020724.sql |File Size: 157.84008979797363 | Site Id: ZW090A66 | Status: Successful
+Facility Name | Emganwini Satelite Clinic | Database Name | EmganwiniSatelite020724.sql |File Size: 64.23223304748535 | Site Id: ZW090A65 | Status: Successful

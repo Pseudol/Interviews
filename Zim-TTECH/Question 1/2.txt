@@ -1,0 +1,72 @@
+Facility Name | Epworth Polyclinic  | Database Name | EpworthPoly08Jul24.sql |File Size: 7373.639313697815 | Site Id: ZW030926 | Status: Successful
+Facility Name | Overspill Clinic  | Database Name | Overspill08Jul24.sql |File Size: 4076.4884662628174 | Site Id: ZW030927 | Status: Successful
+Facility Name | Mutawatawa | Database Name | Mutawatawa090724.sql |File Size: 3630.5980529785156 | Site Id: ZW03030A | Status: Successful
+Facility Name | - | Database Name | EpworthPoly08Jul24.sql |File Size: 7373.639313697815 | Site Id: ZW030926 | Status: Already Processed
+Facility Name | - | Database Name | Overspill08Jul24.sql |File Size: 4076.4884662628174 | Site Id: ZW030927 | Status: Already Processed
+Facility Name | - | Database Name | Mutawatawa090724.sql |File Size: 3630.5980529785156 | Site Id: ZW03030A | Status: Already Processed
+Facility Name | - | Database Name | MurewaHosp10Jul24.sql |File Size: 2657.548351287842 | Site Id: ZW03070B | Status: Corrupt Database
+Facility Name | St Pauls Musami | Database Name | Musami090724.sql |File Size: 2414.442066192627 | Site Id: ZW03070B | Status: Successful
+Facility Name | - | Database Name | Maramba060724.sql |File Size: 2409.609185218811 | Site Id: ZW030331 | Status: Corrupt Database
+Facility Name | Murewa  | Database Name | MurewaPoly06Jul24.sql |File Size: 2353.4548530578613 | Site Id: ZW030722 | Status: Successful
+Facility Name | Borera | Database Name | Borera030724.sql |File Size: 2304.206434249878 | Site Id: ZW030325 | Status: Successful
+Facility Name | Beatrice | Database Name | Beatrice040724.sql |File Size: 1935.1846551895142 | Site Id: ZW03090A | Status: Successful
+Facility Name | Nyameni | Database Name | Nyameni020724.sql |File Size: 1892.938733100891 | Site Id: ZW030562 | Status: Successful
+Facility Name | Makumbe | Database Name | Makumbe270624.sql |File Size: 1837.1190271377563 | Site Id: ZW03020A | Status: Successful
+Facility Name | - | Database Name | Nhakiwa070724.sql |File Size: 1654.76753616333 | Site Id: ZW030333 | Status: Corrupt Database
+Facility Name | Macheke | Database Name | Macheke07Jul24.sql |File Size: 1560.3840656280518 | Site Id: ZW030745 | Status: Successful
+Facility Name | Dindi | Database Name | Dindi030724.sql |File Size: 1555.663275718689 | Site Id: ZW030391 | Status: Successful
+Facility Name | Mashambanhaka | Database Name | Mashambanhaka070724.sql |File Size: 1498.1200609207153 | Site Id: ZW030332 | Status: Successful
+Facility Name | Kunaka | Database Name | Kunaka030724.sql |File Size: 1399.0725593566895 | Site Id: ZW03090B | Status: Successful
+Facility Name | Nhowe | Database Name | Nhowe07Jul24.sql |File Size: 1381.655285835266 | Site Id: ZW03070C | Status: Successful
+Facility Name | Kushinga Phikelela | Database Name | KushPik200624.sql |File Size: 1372.0302066802979 | Site Id: ZW030504 | Status: Successful
+Facility Name | Chitsungo | Database Name | Chitsungo030724.sql |File Size: 1366.2019939422607 | Site Id: ZW030329 | Status: Successful
+Facility Name | Jonasi | Database Name | Jonasi040724.sql |File Size: 1175.7207231521606 | Site Id: ZW030922 | Status: Successful
+Facility Name | Chikuhwa | Database Name | Chikuhwa060724.sql |File Size: 1116.6835498809814 | Site Id: ZW030326 | Status: Successful
+Facility Name | Ruwa Rehab. | Database Name | RuwaRehab040724.sql |File Size: 1101.5547609329224 | Site Id: ZW03020C | Status: Successful
+Facility Name | Dombotombo | Database Name | Dombotombo19Jun24.sql |File Size: 1087.0 | Site Id: ZW030561 | Status: Successful
+Facility Name | Epworth Mission Clinic | Database Name | Epworthmission100724.sql |File Size: 1038.503231048584 | Site Id: ZW030990 | Status: Successful
+Facility Name | Chinyika | Database Name | Chinyika250624.sql |File Size: 1036.5031871795654 | Site Id: ZW030226 | Status: Successful
+Facility Name | - | Database Name | Chitimbe070724.sql |File Size: 1029.9558267593384 | Site Id: ZW030328 | Status: Corrupt Database
+Facility Name | Igava | Database Name | Igava010724.sql |File Size: 1011.8982524871826 | Site Id: ZW030545 | Status: Successful
+Facility Name | Caledonia Clinic | Database Name | Caledonia17Jul24.sql |File Size: 995.6523132324219 | Site Id: ZW000A57 | Status: Successful
+Facility Name | Muskwe | Database Name | Muskwe080724.sql |File Size: 974.0137796401978 | Site Id: ZW030337 | Status: Successful
+Facility Name | Nyakasoro | Database Name | Nyakasoro050724.sql |File Size: 968.1023511886597 | Site Id: ZW030334 | Status: Successful
+Facility Name | Sowa  | Database Name | Sowa040724.sql |File Size: 946.5179138183594 | Site Id: ZW030303 | Status: Successful
+Facility Name | Kafura | Database Name | Kafura050724.sql |File Size: 914.554220199585 | Site Id: ZW030301 | Status: Successful
+Facility Name | Chiota | Database Name | Chiota200624.sql |File Size: 914.4638042449951 | Site Id: ZW03050B | Status: Successful
+Facility Name | Chiparawe | Database Name | Chiparawe020724.sql |File Size: 902.6363172531128 | Site Id: ZW030529 | Status: Successful
+Facility Name | Chipfunde | Database Name | Chipfunde060724.sql |File Size: 879.3877573013306 | Site Id: ZW030327 | Status: Successful
+Facility Name | Kadzere | Database Name | Kadzere080724.sql |File Size: 868.184084892273 | Site Id: ZW030727 | Status: Successful
+Facility Name | Karimbika | Database Name | Karimbika080724.sql |File Size: 854.9395589828491 | Site Id: ZW030302 | Status: Successful
+Facility Name | Tsokodeka | Database Name | Tsokodeka060724.sql |File Size: 845.9523162841797 | Site Id: ZW030339 | Status: Successful
+Facility Name | Mahusekwa District Hospital | Database Name | Mahusekwa030724.sql |File Size: 827.528079032898 | Site Id: ZW03050C | Status: Successful
+Facility Name | Nyanzou | Database Name | Nyanzou040724.sql |File Size: 778.7735996246338 | Site Id: ZW030336 | Status: Successful
+Facility Name | Chinamhora | Database Name | Chinamhora270624.sql |File Size: 777.7301864624023 | Site Id: ZW030225 | Status: Successful
+Facility Name | St Joseph's  | Database Name | StJosephs26June24.sql |File Size: 763.9564752578735 | Site Id: ZW030252 | Status: Successful
+Facility Name | Mwanza | Database Name | Mwanza250624.sql |File Size: 752.3563680648804 | Site Id: ZW030203 | Status: Successful
+Facility Name | Manyika | Database Name | Manyika080724.sql |File Size: 743.9831409454346 | Site Id: ZW030330 | Status: Successful
+Facility Name | Nyamutumbu | Database Name | Nyamutumby10Jul24.sql |File Size: 728.041745185852 | Site Id: ZW030728 | Status: Successful
+Facility Name | Marembera  | Database Name | Marembera070724.sql |File Size: 687.1091194152832 | Site Id: ZW030304 | Status: Successful
+Facility Name | Ruwa  | Database Name | RuwaPoly5jul24.sql |File Size: 681.7490129470825 | Site Id: ZW030273 | Status: Successful
+Facility Name | Kadenge  | Database Name | Kadenge080724.sql |File Size: 658.263599395752 | Site Id: ZW030704 | Status: Successful
+Facility Name | Hombiro | Database Name | Hombiro080724.sql |File Size: 636.1410341262817 | Site Id: ZW030340 | Status: Successful
+Facility Name | Masikana | Database Name | Masikana180724.sql |File Size: 603.8475065231323 | Site Id: ZW030525 | Status: Successful
+Facility Name | Dewe | Database Name | Dewe040724.sql |File Size: 585.9823694229126 | Site Id: ZW030338 | Status: Successful
+Facility Name | Kowoyo | Database Name | Kowoyo260624.sql |File Size: 581.8815183639526 | Site Id: ZW030227 | Status: Successful
+Facility Name | Virginia Clinic | Database Name | Virginia08Jul24.sql |File Size: 534.7686214447021 | Site Id: ZW030746 | Status: Successful
+Facility Name | Nyembanzvere | Database Name | Nyembanzvere170724.sql |File Size: 532.8919734954834 | Site Id: ZW030563 | Status: Successful
+Facility Name | - | Database Name | Dimbiti150724.sql |File Size: 520.5625 | Site Id: ZW030503 | Status: Corrupt Database
+Facility Name | Shambamuto | Database Name | Shambamuto09Jul24.sql |File Size: 516.9437122344971 | Site Id: ZW030729 | Status: Successful
+Facility Name | Bromley | Database Name | Bromley280624.sql |File Size: 452.02196502685547 | Site Id: ZW030245 | Status: Successful
+Facility Name | Marirangwe  | Database Name | Marirangwe050724.sql |File Size: 443.04373264312744 | Site Id: ZW030924 | Status: Successful
+Facility Name | Border Church | Database Name | BorderChrch20Jun24.sql |File Size: 438.58749294281006 | Site Id: ZW030501 | Status: Successful
+Facility Name | Chitate | Database Name | Chitate06Jul24.sql |File Size: 356.4598321914673 | Site Id: ZW030701 | Status: Successful
+Facility Name | Domboshava | Database Name | DomboshavaTC270624.sql |File Size: 347.9272975921631 | Site Id: ZW030202 | Status: Successful
+Facility Name | Chikwaka | Database Name | Chikwaka26Jun24.sql |File Size: 320.9266471862793 | Site Id: ZW03020D | Status: Successful
+Facility Name | Munamba | Database Name | Munamba09Jul24.sql |File Size: 264.8428945541382 | Site Id: ZW030706 | Status: Successful
+Facility Name | Rusike | Database Name | Rusike05Jul24.sql |File Size: 259.4385652542114 | Site Id: ZW030249 | Status: Successful
+Facility Name | John Reimer | Database Name | JohnReimer260624.sql |File Size: 216.13228797912598 | Site Id: ZW030247 | Status: Successful
+Facility Name | Kubatsirana | Database Name | Kubatsirana250624.sql |File Size: 168.9584255218506 | Site Id: ZW030248 | Status: Successful
+Facility Name | Chitowa 1 | Database Name | Chitowa1060724.sql |File Size: 104.39482116699219 | Site Id: ZW030723 | Status: Successful
+Facility Name | Waterloo | Database Name | Waterloo07Jul24.sql |File Size: 36.00422763824463 | Site Id: ZW030747 | Status: Successful
+Facility Name | Goso | Database Name | Goso11Jul24.sql |File Size: 24.718978881835938 | Site Id: ZW030772 | Status: Successful
